@@ -1,5 +1,5 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1"%>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -11,9 +11,7 @@
 
 <h1>Welcome to Spring!</h1>
 
-<h1>Click here to <a href="register">Register!</a></h1>
-
-<h1>Click here to <a href="signin">Sign-In!</a></h1>
+<h1>Click <a href="register">here</a> to Register.</h1>
 
 </body>
 </html>
